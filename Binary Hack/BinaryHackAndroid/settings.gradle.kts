@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BinaryHackAndroid"
-include ':app'
+rootProject.name = "Binary Hack Android"
+include(":app")
+ 

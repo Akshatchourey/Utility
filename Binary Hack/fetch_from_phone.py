@@ -4,7 +4,7 @@ import pyperclip
 import requests
 
 # Replace with your phone's actual local IP address and chosen port
-PHONE_URL = "http://10.130.116.61:8080/get-clipboard"
+PHONE_URL = "http://10.183.113.33:8080/get-clipboard"
 
 def main():
     time.sleep(0.2) 
