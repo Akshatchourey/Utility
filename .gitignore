@@ -1,0 +1,9 @@
+*.iml
+Binary Hack/BinaryHackAndroid/.gradle
+Binary Hack/BinaryHackAndroid/local.properties
+Binary Hack/BinaryHackAndroid/.idea
+*.DS_Store
+Binary Hack/BinaryHackAndroid/build
+Binary Hack/BinaryHackAndroid/captures
+Binary Hack/BinaryHackAndroid/.externalNativeBuild
+Binary Hack/BinaryHackAndroid/.cxx
